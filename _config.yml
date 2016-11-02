@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Pranay's Website"
+description: "My own space on the Internet."
 
 # Build settings
 markdown: kramdown
@@ -10,37 +10,37 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
+resume_name:                    "Pranay Shah"
+resume_title:                   "Sci-Tech Aficionado"
 resume_contact_email:
-  "homerjsimpson@youremailaddress.com"
+  "pranay@pranayshah.xyz"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+#resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
-resume_section_education:       true
+resume_section_experience:      false
+resume_section_education:       false
 resume_section_projects:        true
-resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+resume_section_skills:          false
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  resume_github_url:            "https://github.com/pranayshahxyz"
+  resume_twitter_url:           "https://twitter.com/pranayshahxyz"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_facebook_url:          "https://facebook.com/pranayshahxyz"
+  resume_linkedin_url:          "https://www.linkedin.com/in/pranayshahxyz"
+  resume_instagram_url:         "https://instagram.com/pranayshahxyz"
+  #resume_website_url:           "http://joelglovier.com"
 
 # Design settings
 resume_theme:                   default
